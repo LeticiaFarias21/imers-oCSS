@@ -1,0 +1,37 @@
+body {
+    background: linear-gradient(to right, #649440, #0a88d1 );
+    background-size: ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu {
+    background-color: antiquewhite;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around
+}
+.menu li {
+    list-style: none;
+    
+}
+
+.site-subtitle,
+.site-title {
+    color:antiquewhite;
+    text-align: center;
+}
+
+.site-subtitle {
+    
+}
